@@ -254,3 +254,9 @@
 .App .userWrap .userDetail div {
   line-height: 200%;
 }
+
+@media screen and (max-width: 998px) {
+  .App .homeWrap .Upcoming_upMovieWrap .Upcoming_upInfo img {
+    bottom: 10px;
+  }
+}
